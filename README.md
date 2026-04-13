@@ -1,1 +1,3 @@
-# aman-research-github.github.io
+# My Academic Website
+
+Welcome to my homepage.
