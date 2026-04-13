@@ -1,1 +1,10 @@
 theme: jekyll-theme-cayman
+
+title: Your Name
+description: PhD Student | Researcher
+
+header_pages:
+  - about.md
+  - publications.md
+  - cv.md
+  - contact.md
