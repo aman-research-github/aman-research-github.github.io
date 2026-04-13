@@ -3,10 +3,27 @@ layout: default
 title: Home
 ---
 
-# My Academic Website
+# Your Name
 
-Welcome to my homepage. Hi I am Aman Awasthi, a PhD student in Astrophysics and cosmology at [Indian b].
+PhD Student in [Your Field]  
+[Your University]
 
-My research focuses on:
+---
+
+## Research Interests
 - Topic 1
 - Topic 2
+- Topic 3
+
+---
+
+## About Me
+I am a PhD student working in the area of [your research area]. My work focuses on [brief description of your research problem].
+
+---
+
+## Navigation
+- [About](about)
+- [Publications](publications)
+- [CV](cv)
+- [Contact](contact)
