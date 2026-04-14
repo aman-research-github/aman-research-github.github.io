@@ -5,7 +5,9 @@ title: CV
 
 # Curriculum Vitae
 
-<a href="cv.pdf" target="_blank">Download CV</a>
+<a href="cv.pdf" target="_blank" style="padding:10px 15px; background-color:#0366d6; color:white; text-decoration:none; border-radius:5px;">
+  Download CV
+</a>
 
 ---
 
