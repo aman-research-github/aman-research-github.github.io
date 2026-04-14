@@ -5,20 +5,23 @@ title: Contact
 
 # Contact
 
-Email: yourname@email.com  
-
----
-
-## Profiles
-
-- Google Scholar: [Link]
-- LinkedIn: [Link]
-- GitHub: [Link]
+**Email:** amanawasthi4444@gmail.com  
+**Alternate Email:** 174120011@iitb.ac.in  
 
 ---
 
 ## Address
 
-Department of [Your Department]  
-[Your University]  
-[City, Country]
+Department of Physics  
+Indian Institute of Technology Bombay  
+Powai, Mumbai – 400076  
+India  
+
+---
+
+## Academic Profiles
+
+- arXiv: 
+- Google Scholar: 
+- Inspire HEP
+- NASA ADS- 
