@@ -48,6 +48,11 @@ title: CV
 
 ## Computer Skills
 
-- Programming: Python, FORTRAN  
+- Programming: Python, FORTRAN
+
+ ---
+
+## Navigation
+[About](about) | [Publications](publications) | [CV](cv) | [Contact](contact)
 - Tools: Mathematica, MESA, GYRE, ADIPLS  
 - OS: Linux, macOS
