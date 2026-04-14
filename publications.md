@@ -25,3 +25,8 @@ Development of a data processing pipeline for Roman Space Telescope observations
 ### Additional Work
 - Population synthesis using binary_c  
 - Application of LISA sensitivity on astrophysical sources
+  
+---
+
+## Navigation
+[About](about) | [Publications](publications) | [CV](cv) | [Contact](contact)
