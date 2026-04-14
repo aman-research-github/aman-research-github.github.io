@@ -5,25 +5,49 @@ title: CV
 
 # Curriculum Vitae
 
-You can download my CV below:
-
 [Download CV](cv.pdf)
 
 ---
 
-## Summary
+## Education
 
-PhD student specializing in [your field], with research experience in [key areas].
-
----
-
-## Experience
-
-- Research Assistant, [University], [Year–Present]
-- Intern, [Organization], [Year]
+- PhD, Physics — IIT Bombay (2018–Present)  
+- MSc, Physics — CSJM University, Kanpur (2014–2016)  
+- BSc, Physics — CSJM University, Kanpur (2011–2014)  
 
 ---
 
-## Awards
+## Achievements
 
-- Fellowship / Scholarship Name, Year
+- CSIR-UGC NET (Senior Research Fellowship), 2017  
+- GATE Qualified, 2017  
+
+---
+
+## Teaching Experience
+
+- Teaching Assistant, "Group Theory Methods in Physics" (NPTEL), 2020  
+- Teaching Assistant, "BTech Lab I", IIT Bombay (2019–2020)  
+
+---
+
+## Workshops & Schools
+
+- GROWTH Winter School, IIT Bombay (2018)  
+- IITB-ICTP Workshop on Neutrino Physics (2018)  
+- Cosmology: The Next Decade, ICTS Bangalore (2019)  
+- FHEP 2019, IIT Hyderabad  
+- QEIC 2020, IIT Bombay  
+- Dark Matter Workshop (ICTS, 2020)  
+- School on Black Holes & Gravitational Waves (2021)  
+- PCTS Princeton Workshop (2021)  
+- Phenomenology Symposium (2021)  
+- IAGRG School (2022)  
+
+---
+
+## Computer Skills
+
+- Programming: Python, FORTRAN  
+- Tools: Mathematica, MESA, GYRE, ADIPLS  
+- OS: Linux, macOS
