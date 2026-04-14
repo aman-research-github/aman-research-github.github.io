@@ -5,25 +5,39 @@ title: About
 
 # About Me
 
-I am currently a PhD student at [University Name], working under the supervision of [Supervisor Name].
+I am currently a PhD candidate in Physics at the Indian Institute of Technology Bombay, Mumbai, India. 
 
-My research focuses on:
-- Area 1
-- Area 2
-- Area 3
+My research lies at the intersection of astrophysics and cosmology, with a focus on stellar interiors, gravitational wave astrophysics, and observational cosmology.
 
 ---
 
 ## Education
 
-- PhD in [Field], [University], [Year–Present]
-- MSc in [Field], [University], [Year]
-- BSc in [Field], [University], [Year]
+- PhD in Physics, IIT Bombay (2018–Present)  
+- MSc in Physics, Chhatrapati Shahu Ji Maharaj University, Kanpur (2014–2016)  
+- BSc in Physics, Mathematics, Chemistry, Chhatrapati Shahu Ji Maharaj University (2011–2014)  
 
 ---
 
-## Skills
+## Research Interests
 
-- Programming: Python, MATLAB, C++
-- Tools: LaTeX, Git
-- Areas: Machine Learning / Physics / Chemistry (edit as needed)
+- Stellar Physics  
+- Astrophysics  
+- Helioseismology  
+- Cosmology  
+- Gravitational Waves  
+- Microlensing  
+
+---
+
+## Technical Skills
+
+**Programming:** Python, FORTRAN  
+**Tools:** Mathematica, MESA, GYRE, ADIPLS  
+**Operating Systems:** Linux, macOS  
+
+---
+
+## Languages
+
+English, Hindi
