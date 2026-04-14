@@ -53,6 +53,6 @@ title: CV
  ---
 
 ## Navigation
-[About](about) | [Publications](publications) | [CV](cv) | [Contact](contact)
+[Home](index) | [About](about) | [Publications](publications) | [CV](cv) | [Contact](contact)
 - Tools: Mathematica, MESA, GYRE, ADIPLS  
 - OS: Linux, macOS
