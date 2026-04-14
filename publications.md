@@ -29,4 +29,4 @@ Development of a data processing pipeline for Roman Space Telescope observations
 ---
 
 ## Navigation
-[About](about) | [Publications](publications) | [CV](cv) | [Contact](contact)
+[Home](index) | [About](about) | [Publications](publications) | [CV](cv) | [Contact](contact)
