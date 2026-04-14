@@ -5,6 +5,9 @@ title: Home
 
 # Aman Awasthi
 
+<p align="center">
+  <img src="aman_photo.jpg" width="200">
+</p>
 PhD Candidate in Physics  
 Indian Institute of Technology, Bombay
 
