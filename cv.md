@@ -5,7 +5,7 @@ title: CV
 
 # Curriculum Vitae
 
-[Download CV](cv.pdf)
+<a href="cv.pdf" target="_blank">Download CV</a>
 
 ---
 
