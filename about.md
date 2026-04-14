@@ -41,3 +41,7 @@ My research lies at the intersection of astrophysics and cosmology, with a focus
 ## Languages
 
 English, Hindi
+---
+
+## Navigation
+[About](about) | [Publications](publications) | [CV](cv) | [Contact](contact)
