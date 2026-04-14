@@ -44,4 +44,4 @@ English, Hindi
 ---
 
 ## Navigation
-[About](about) | [Publications](publications) | [CV](cv) | [Contact](contact)
+[Home](index) | [About](about) | [Publications](publications) | [CV](cv) | [Contact](contact)
