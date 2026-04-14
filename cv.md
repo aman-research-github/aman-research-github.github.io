@@ -49,10 +49,10 @@ title: CV
 ## Computer Skills
 
 - Programming: Python, FORTRAN
+- Tools: Mathematica, MESA, GYRE, ADIPLS  
+- OS: Linux, macOS
 
  ---
 
 ## Navigation
 [Home](index) | [About](about) | [Publications](publications) | [CV](cv) | [Contact](contact)
-- Tools: Mathematica, MESA, GYRE, ADIPLS  
-- OS: Linux, macOS
