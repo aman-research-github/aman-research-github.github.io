@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
- Navigation
+## Navigation
 [About](about) | [Publications](publications) | [CV](cv) | [Contact](contact)
 
 
