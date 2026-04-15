@@ -3,6 +3,10 @@ layout: default
 title: Contact
 ---
 
+[Home](index) | [About](about) | [Publications](publications) | [CV](cv) | [Contact](contact)
+
+---
+
 # Contact
 
 **Email:** amanawasthi4444@gmail.com  
@@ -29,5 +33,3 @@ India
 
  ---
 
-## Navigation
-[Home](index) | [About](about) | [Publications](publications) | [CV](cv) | [Contact](contact)
