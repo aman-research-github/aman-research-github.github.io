@@ -25,8 +25,6 @@ India
 
 ## Academic Profiles
 
-<h2>Academic Profiles</h2>
-
 <ul>
   <li>📄 <a href="https://arxiv.org/search/gr-qc?searchtype=author&query=Awasthi,+A" target="_blank">arXiv</a></li>
   <li>📊 <a href="https://inspirehep.net/authors/3124530" target="_blank">INSPIRE-HEP</a></li>
