@@ -6,6 +6,7 @@ title: Home
 
 [About](about) | [Publications](publications) | [CV](cv) | [Contact](contact)
 
+---
 
 <p align="center">
   <img src="aman_photo.jpg" width="400">
