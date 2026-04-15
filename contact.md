@@ -28,9 +28,9 @@ India
 <h2>Academic Profiles</h2>
 
 <ul>
-  <li>📄 <a href="https://arxiv.org/abs/2602.18385" target="_blank">arXiv</a></li>
-  <li>📊 <a href="https://inspirehep.net/authors/XXXXXXX" target="_blank">INSPIRE-HEP</a></li>
-  <li>🎓 <a href="#" target="_blank">Google Scholar</a></li>
+  <li>🔗 <a href="https://arxiv.org/abs/2602.18385" target="_blank">arXiv</a></li>
+  <li>🔗 <a href="https://inspirehep.net/authors/XXXXXXX" target="_blank">INSPIRE-HEP</a></li>
+  <li>🔗 <a href="#" target="_blank">Google Scholar</a></li>
 </ul>
 
  ---
