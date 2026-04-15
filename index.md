@@ -3,37 +3,46 @@ layout: default
 title: Home
 ---
 
-# Aman Awasthi
+## Navigation
+[About](about) | [Publications](publications) | [CV](cv) | [Contact](contact)
+
 
 <p align="center">
-  <img src="aman_photo.jpg" width="200">
+  <img src="aman_photo.jpg" width="400">
 </p>
+
+# Aman Awasthi
+
 PhD Candidate in Physics  
-Indian Institute of Technology, Bombay
+Indian Institute of Technology Bombay  
+
+---
+
+I work in the areas of astrophysics and cosmology, with a focus on stellar physics, gravitational wave astrophysics, and observational probes of the Universe. My research explores the connections between stellar structure, astrophysical sources, and cosmological observations, combining theoretical modeling with data-driven approaches.
 
 ---
 
 ## Research Interests
-- Stellar Physics  
-- Astrophysics  
-- Helioseismology  
-- Cosmology  
-- Gravitational Waves  
+
+- Stellar Physics and Helioseismology  
+- Gravitational Wave Astrophysics  
+- Observational Cosmology  
 - Gravitational Microlensing  
+- Dark Matter and Dark Energy  
 
 ---
 
-## About Me
-I am a PhD candidate at the Indian Institute of Technology Bombay under the supervision of Prof. Subhabrata Dhar. My research focuses on astrophysical and cosmological phenomena, with particular interest in stellar physics, gravitational waves, and observational cosmology.
+## Current Work
+
+My current research includes the study of solar g-modes and their detection prospects with space-based gravitational wave observatories, as well as ongoing work on the Hubble constant tension using supernova data. I am also developing analysis pipelines for gravitational microlensing studies in the context of upcoming surveys.
 
 ---
 
-## Highlights
-- CSIR-UGC NET (Senior Research Fellowship), 2017  
-- GATE Qualified, 2017  
-- Research on solar g-modes and gravitational wave detection  
+## Publications
+
+- *Detection prospects of solar g-modes with LISA*  
+  (Under review)  
+  [arXiv:2602.18385](https://arxiv.org/abs/2602.18385)
 
 ---
 
-## Navigation
-[About](about) | [Publications](publications) | [CV](cv) | [Contact](contact)
