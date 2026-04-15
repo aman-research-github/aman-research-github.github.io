@@ -3,6 +3,11 @@ layout: default
 title: Publications
 ---
 
+
+[Home](index) | [About](about) | [Publications](publications) | [CV](cv) | [Contact](contact)
+
+---
+
 # Publications
 
 ## Journal Articles
@@ -28,5 +33,3 @@ Development of a data processing pipeline for Roman Space Telescope observations
   
 ---
 
-## Navigation
-[Home](index) | [About](about) | [Publications](publications) | [CV](cv) | [Contact](contact)
