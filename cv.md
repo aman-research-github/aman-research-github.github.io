@@ -3,6 +3,9 @@ layout: default
 title: CV
 ---
 
+
+[Home](index) | [About](about) | [Publications](publications) | [CV](cv) | [Contact](contact)
+
 # Curriculum Vitae
 
 <a href="cv.pdf" target="_blank" style="padding:10px 15px; background-color:#0366d6; color:white; text-decoration:none; border-radius:5px;">
@@ -56,5 +59,4 @@ title: CV
 
  ---
 
-## Navigation
-[Home](index) | [About](about) | [Publications](publications) | [CV](cv) | [Contact](contact)
+
