@@ -3,8 +3,10 @@ layout: default
 title: About
 ---
 
-## Navigation
+
 [Home](index) | [About](about) | [Publications](publications) | [CV](cv) | [Contact](contact)
+
+---
 
 # About Me
 
