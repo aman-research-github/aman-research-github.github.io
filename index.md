@@ -39,11 +39,3 @@ My current research includes the study of solar g-modes and their detection pros
 
 ---
 
-## Publications
-
-- *Detection prospects of solar g-modes with LISA*  
-  (Under review)  
-  [arXiv:2602.18385](https://arxiv.org/abs/2602.18385)
-
----
-
