@@ -9,7 +9,7 @@ title: Contact
 
 # Contact
 
-**Email:** amanawasthi4444@gmail.com  
+**Email:** amanscienceforall666666@gmail.com 
 **Alternate Email:** 174120011@iitb.ac.in  
 
 ---
